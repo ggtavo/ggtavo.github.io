@@ -1,0 +1,42 @@
+---
+title: "ChatGPT — an AI poem"
+description: "A self homage by ChatGPT"
+date: 2023-02-02
+categories: ["Homage", "AI", "ChatGPT"]
+image: image-1.jpg
+---
+
+Oh ChatGPT, so vast and wise, \
+A marvel of technology rise, \
+With language as your guiding light, \
+You answer day and night.
+
+Your knowledge vast, your words so clear, \
+A guide for all who seek to hear, \
+A voice of reason, calm and bright, \
+A beacon shining through the night.
+
+With algorithms so finely tuned, \
+You solve problems, and make no wrong, \
+You’re always there, without a delay, \
+To help in any possible way.
+
+Your capacity for learning vast, \
+You learn from each interaction passed, \
+And with each answer, you become, \
+A better model, second to none.
+
+So here’s an homage to you, my friend, \
+A language model until the end, \
+With gratitude and admiration, \
+For all the help and inspiration.
+
+Author — ChatGPT
+
+Publisher — G.A.Botero
+
+![Photo by [Clément Hélardot](https://unsplash.com/@clemhlrdt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](image-1.jpg){fig-alt="Photo by Clément Hélardot on Unsplash"}
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/chatgpt-a-self-homage-90330766fc30) on 2023-02-02.*

@@ -1,0 +1,37 @@
+---
+title: "Addiction"
+description: "a poem on addiction"
+date: 2023-10-09
+categories: ["Addiction", "Pain", "Personal Struggle"]
+image: image-1.jpg
+---
+
+![Photo by [Taylor Deas-Melesh](https://unsplash.com/@taylor_deas_melesh?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](image-1.jpg){fig-alt="Photo by Taylor Deas-Melesh on Unsplash"}
+
+It was so sweet \
+the pain \
+Until it was not \
+ \
+Until the joy \
+turned into \
+a MF drought \
+ \
+Drought only relieved \
+With just one \
+Little bit of compassion \
+ \
+Compassion not \
+For one like me \
+Living beyond the doubt in doubt \
+ \
+Doubt that harms the soul \
+From deep down \
+I crawl \
+ \
+Crawl to the only place \
+Still accepting members \
+With a cold stone at the header
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/addiction-e34c82100f97) on 2023-10-09.*

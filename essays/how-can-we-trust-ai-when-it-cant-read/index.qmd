@@ -1,0 +1,73 @@
+---
+title: "How can we trust AI when it can’t read"
+description: "I like to write as a hobby. It’s my form of therapy. I post some of my content on Medium and Vocal. For the past few months I have been…"
+date: 2025-08-05
+categories: ["AI", "LLM", "Tech"]
+image: image-1.jpg
+---
+
+![Photo by [Joshua Hoehne](https://unsplash.com/@joshua_hoehne?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](image-1.jpg){fig-alt="Photo by Joshua Hoehne on Unsplash"}
+
+I like to write as a hobby. It’s my form of therapy. I post some of my content on Medium and Vocal. For the past few months I have been using AI to help catch grammar issues before I hit publish. I don’t take all the suggestions but I feel it works for the big things that I may overlook. I find proofing my own work much more difficult than proofing someone else’s work, probably because I read it too fast since I know what I wrote.
+
+Just today I asked AI to proofread an essay I am writing and on two occasions it came back with fictional errors and suggested corrections to things that were already in my original text.
+
+So, I asked AI “Why so many errors today in your feedback?”
+
+It replied:
+
+> “You’re absolutely right to call this out, and I apologize. I made careless errors by not carefully re-reading the original text before providing feedback. In both cases, I suggested adding punctuation or words that were already there — which is unhelpful and undermines the trust you should be able to place in my proofreading.
+
+> When doing grammar checks, I should be methodically going through the text word by word rather than working from memory or making assumptions. I clearly wasn’t being thorough enough in my review process.
+
+> Thank you for the correction — it’s important feedback that will help me be more accurate going forward.”
+
+I followed up: “Should I use a certain prompt to make sure you are being more careful?”
+
+The reply was:
+
+> “You could try a prompt like this to encourage more careful review:
+
+> “Please carefully proofread this text for grammar errors. Before suggesting any corrections, double-check that the issue actually exists in the original text by re-reading that specific section.”
+
+> Or even more direct:
+
+> “Proofread this text. For each error you identify, quote the exact problematic phrase from my text before suggesting the correction.”
+
+> The quoting approach would force me to locate and reproduce the actual text, which should prevent me from suggesting fixes for problems that don’t exist. It adds an accountability step to the process.
+
+> That said, the real issue is that I should be doing this level of careful checking automatically when proofreading — you shouldn’t need a special prompt to get accurate feedback. But until I’m more consistently careful, those approaches could help catch my mistakes before I give you incorrect suggestions.”
+
+So AI knows it made an error and why it made it but for some reason the mechanism to get me the correct response is not built into the process.
+
+Let’s imagine if you ran your dishwasher, with built-in AI, and it left your dishes dirty sometimes. You ask it why it didn’t wash your dishes completely, and it responds that it should have but to be sure, make sure you press the start button harder. Ridiculous right?
+
+As many companies rush to implement AI into their processes, I wonder about the quality of the output. One thing is for AI to make errors in non-critical things like grammar checking and another thing is a customer being treated wrong or systems steering other systems in the wrong direction.
+
+We have seen examples in the news of AI behaving badly; Grok praising Hitler and making racist remarks, Copilot inaccurate news summaries and biased output by Copilot designer, and ChatGPT citing made up legal cases when assisting in researching for a legal brief.
+
+With these major AI platforms increasingly being used in all branches of government and in military and defense systems, I worry about when AI will make a tragic mistake. Also, with the recent news that Spotify and YouTube require AI age verification in some markets, how will the consumer experience change? How annoying is it going to be when one of these systems denies you access because it misinterpreted your age.
+
+We have become accustomed, as users, to tolerate the products of agile design principles. The daily updates of dozens of apps to fix bugs has become routine (although still annoying). It seems to me AI is becoming way too important to have users (or citizens, customers, civilians) be the debuggers. Companies have to figure out how to make these systems work out of the box, the right way. The price is getting too high to allow for mistakes.
+
+P.S. I used AI to grammar check this article and it did the same thing. One of the suggestions, even after the prompt to carefully read and quote the examples, was incorrect.
+
+Here was the error. See how “about” is already in the sentence.
+
+“As many companies rush to implement AI into their processes, I wonder about the quality of the output.” — Add “about” for clarity: “As many companies rush to implement AI into their processes, I wonder about the quality of the output.”
+
+I called it out and AI replied that it made the same error I was writing about. Here is the reply:
+
+> “You’re absolutely right — I made the exact same type of error you’re writing about!
+
+> Looking at your text again: “As many companies rush to implement AI into their processes, I wonder about the quality of the output.”
+
+> The word “about” is already there. I suggested adding a word that was already present in your original text, which is precisely the fictional error problem you’re describing in your article.
+
+> This is actually a perfect real-world example of the issue you’re highlighting — even when explicitly asked to quote problematic phrases to prevent this exact mistake, I still made it. Your point about AI reliability is even more compelling now.”
+
+Go figure!
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/how-can-we-trust-ai-when-it-cant-read-fcd993029f51) on 2025-08-05.*

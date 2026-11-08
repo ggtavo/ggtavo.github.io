@@ -1,0 +1,115 @@
+---
+title: "Happy Holidays, Here’s a 35.99% Loan"
+description: "My paycheck portal wants me to finance Christmas."
+date: 2026-11-05
+categories: ["Personal Finance", "Economy", "Debt"]
+image: image-1.png
+---
+
+![Image of mother and child during the holidays with loan offer underneath](image-1.png){fig-alt="Image of mother and child during the holidays with loan offer underneath"}
+
+### My benefits email offer
+
+I got an email this week through ADP, the same portal where I check my pay stubs and my withholding. The image, a Christmas themed picture, in the email was a stock-photo of a mother and her little girl in felt reindeer antlers, laughing in front of a glowing tree, wrapped presents piled around them. In the picture, in white letters, a logo. Below the picture, a headline: **$15k Loans For Employees. **Then the information text:
+
+“Get ahead of holiday spending,” it says. Gifts, unexpected expenses, debt consolidation. Funds as soon as tomorrow.
+
+I sat with that for a minute. Honestly, I think my body reacted before my mind did. I get emails from ADP, LifeMart, Working Advantage and many others related to my work benefits. I paused on this one not because a lender advertised to me (that happens daily) but what stopped me was the message along with *where* it arrived. It came through the system that pays me. It sat in the same mental drawer as my 401(k) and my dental plan. Somewhere along the way, the offer to go into debt so my kid can have presents got filed under employee services.
+
+That is the part worth talking about.
+
+### The benefit that is not a benefit: The fine print
+
+I clicked “more info” and the warmth drains out fast. VIVA’s APRs run from 11.99% to 35.99%, fees included, with terms up to 36 months. WOW! Thievery anyone?
+
+Even their own showcase example shows the trapped cost. A $4,000 loan at a 19.60% APR over 24 months shows the payment at $204.45 a month. The total paid back is $4,906.80. That is roughly $900 to borrow $4,000. That is the example they *chose* to show you. But then again, who reads the fine print nowadays.
+
+I ran the top of the range through a loan calculator. Borrow the full $15,000 at 35.99% for 36 months and the payment is about $687 a month (car payment for a nice car territory). You would pay back roughly $24,700, nearly $9,700 of it in interest and fees (ouch!).
+
+Then I tried small and realistic. Say you borrow $1,500 for gifts and stretch it over three years at the top rate. That is about $69 a month, and roughly $970 in interest. The Christmas you are paying for in 2029 cost you 65% more than its sticker price. The toys will be outgrown long before the loan is gone.
+
+For context, 36% is the line many consumer advocates and state laws use to separate ordinary credit from predatory credit. VIVA’s ceiling sits one hundredth of a point beneath it. Clever for them, it would be horrible if your employer promoted predatory credit.
+
+### Who this is built for
+
+So I did a little digging. VIVA is not hiding its market. In a [2025 announcement of its partnership with Paychex](https://www.viva-finance.com/post/viva-finance-announces-strategic-partnership-with-paychex), the company describes itself as disrupting the “alternative financial services industry” that serves nonprime customers with damaged or no credit. Approval is based mainly on employment, not credit score. In other words: the people banks turn away, reached through the one relationship they can’t easily walk away from — their job.
+
+The same announcement explains the exploitation mechanism (I mean the way it works). VIVA sits inside Paychex’s “curated digital marketplace of employee benefits,” reaching roughly 10 million workers. Repayment is tied to payroll through a VIVA wallet funded by direct deposit. The companies say they envision that wallet eventually handling rent, phone plans and insurance too. Your paycheck, routed through your lender first (it’s like having your food delivered to hungry ogres before it gets to you).
+
+VIVA calls this a “built-in budgeting mechanism.” It is also the best collateral an unsecured lender could ask for: first claim on your wages, before you see them.
+
+Then there is the fine print’s most telling line: loans are not available to active-duty military or their dependents. Those borrowers are covered by the [Military Lending Act](https://www.consumerfinance.gov/ask-cfpb/what-is-covered-under-the-military-lending-act-en-1785/), which caps their all-in cost of credit at 36% and bars lenders from requiring automatic paycheck deductions as a condition of a loan. I can’t tell you why VIVA leaves them out. I can tell you that the one group of workers Congress decided needed protection from this kind of lending is the one group that can’t get it. Interesting and telling if you ask me.
+
+### “Employers in no way benefit,” but someone does
+
+The disclaimer insists VIVA is not sponsored or endorsed by any employer, that employers get nothing from it, and that VIVA “completely releases employers from any liability.”
+
+Take that at face value and it is almost worse. My employer’s payroll vendor handed a high-interest lender a direct line to my inbox, wrapped in the language of employee services, and nobody involved is responsible for it. The benefit is real for the lender and the platform. The risk is entirely mine.
+
+### The sadness of holiday debt and why this ad makes sense now
+
+The ad isn’t crazy. It’s responsive. It knows exactly who is reading it.
+
+Last holiday season, 37% of Americans took on holiday debt, averaging $1,223, according to [LendingTree’s annual survey](https://www.lendingtree.com/credit-cards/study/holiday-debt-tariffs/). Among parents of kids under 18 it was 48%. And 41% of those holiday borrowers were still paying off the *previous* Christmas. That is not a splurge. That is a cycle.
+
+The Federal Reserve’s [latest household survey](https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-executive-summary.htm) says 37% of adults would not cover a surprise $400 expense with cash or its equivalent. Sixteen percent didn’t pay all their bills in the prior month. Credit card balances grew fastest among the people who said they were already struggling.
+
+So the market is real. Millions of working people, many with full-time jobs and steady paychecks, can’t make December math work. The question is what our system offers them in response.
+
+### Everyone else is cutting back
+
+The timing makes the pitch even stranger. A new [Ipsos poll for Thrivent](https://www.ipsos.com/en-us/two-three-americans-plan-holiday-cutbacks-amid-economic-concerns), fielded in early October, found 68% of Americans plan to cut back this holiday season because of economic conditions. Among those trimming gifts, 66% plan to buy fewer gifts overall, up from 56% last year. And 46% plan to buy for fewer people, up from 37%.
+
+(A caveat for the data nerds. Thrivent is a financial services company that sells advice, insurance and investment products, and it paid for this poll. That shows in the framing. Many questions center on budgeting, planning and “overspending,” and the options for fixing it are all personal habits — start saving earlier, track expenses better — rather than wages or prices. That is the same individual-responsibility story this piece is pushing back on. The underlying numbers are harder to dismiss, though. Ipsos used a probability-based, nationally representative panel with a margin of error of about two points, and published the full questionnaire. I’d trust the figures more than the framing.)
+
+The squeeze isn’t limited to presents. Over a third of Americans (35%) say economic uncertainty pushed them to cut back on *essential* spending in the past year. Among the 38% who are more worried about holiday finances than usual, three in four blame rising prices and nearly one in three say they’re living paycheck to paycheck. Fifteen percent are already paying off personal loan debt.
+
+So people are doing the sensible thing: spending less, buying fewer gifts, scaling down. Just 1% told Ipsos they planned to take out a small-dollar loan for holiday spending. The $15,000 email lands in the middle of all that restraint and nudges the other way.
+
+### Benefits used to mean something else
+
+An employer benefit was supposed to be a way of sharing the gains of work beyond the hourly wage: a pension, health insurance, paid time off. Things that made you *more* secure because you had a job.
+
+The new benefits portal works differently. It’s a marketplace. Vendors buy access to a captive audience of workers, and the platform gets to call the storefront “perks.” Discount tickets, pet insurance, and now high-interest installment loans, all on the same shelf.
+
+That shift tells you something. When wages don’t cover the cost of an ordinary life, the system doesn’t raise the wage. It sells you a loan against the wage instead, then calls that financial wellness. Your job stops being the thing that protects you from debt and becomes the thing that qualifies you for it.
+
+### Selling debt as love
+
+Look at the picture again. A mother and her daughter, laughing. Nobody in that photo is thinking about a 35.99% APR. The image sells exactly what the lender wants you to feel: that this is what good parents provide, and that the loan is how you provide it.
+
+The real mood is different. When Ipsos asked which emotions people associate with holiday shopping, the top answer wasn’t “joyful” (35%). It was “stressed” (38%). About a third of Americans say they feel pressured to spend more than they can afford. The photo sells the joy. The loan is aimed at the stress.
+
+That is the cruelest part. The pressure to give your kids a good Christmas is not irrational or shallow. It comes from love. The ad takes that love and prices it, with interest, for up to 36 months. Sick!
+
+### What a real benefit would look like
+
+I’m not naive about this. For someone with a 28% credit card balance or a payday loan, a 20% installment loan might genuinely be the less-bad option. Less-bad is a low bar, and it’s not the one we should be measuring by and not one our employers should be suggesting to us.
+
+If companies and the platforms that serve them actually cared about “employee financial wellness,” the options aren’t mysterious:
+
+- **Pay people enough** that December doesn’t require a credit decision.
+
+- **A year-end bonus**, even a modest one, instead of a year-end loan offer.
+
+- **Employer-funded emergency savings.** Federal law now lets employers attach emergency savings accounts to retirement plans. Some match contributions. That is money that builds up, not money that comes due.
+
+- **Zero- or low-interest hardship loans** funded by the employer itself, the way some companies already do.
+
+- **Point people to credit unions,** which offer small-dollar loans with federally capped rates.
+
+Every one of those costs the employer something. That’s the point. A real benefit is one where the company carries some of the weight. This “benefit” costs them nothing and, by its own disclaimer, exposes them to nothing. All the cost lands on the worker, with interest.
+
+### The quiet part
+
+I don’t think anyone at VIVA or ADP is a cartoon villain (ok, maybe I do but that is not the point). The point is nobody had to be evil for this email to land in my inbox. It just had to be profitable, and it was, because the wage gap between what work pays and what life costs has become a business opportunity.
+
+So here is my holiday wish: that we notice when debt starts showing up dressed as a perk. That we stop treating “you can borrow against your job” as the same thing as “your job takes care of you.”
+
+If you got this email too and you’re tempted, I get it. Before you click, check what a local credit union would charge, read the total repayment line, and ask yourself whether the toys will outlast the payments.
+
+And if you run a company: your employees don’t need a lender in their benefits portal. They need a raise.
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/happy-holidays-heres-a-35-99-loan-41fbd58b31cd) on 2026-11-05.*

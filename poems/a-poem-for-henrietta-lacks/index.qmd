@@ -1,0 +1,34 @@
+---
+title: "A poem for Henrietta Lacks"
+description: "I wrote this poem on a prompt from Sarah Allatt for a poetry contest on allpoetry.com. I had never heard of Henrietta Lacks before the…"
+date: 2023-10-07
+categories: ["Henrietta Lacks", "Cancer", "Thank You"]
+image: image-1.jpg
+---
+
+![Image from [Wikipedia](https://en.wikipedia.org/wiki/Henrietta_Lacks)](image-1.jpg){fig-alt="Image from Wikipedia"}
+
+I wrote this poem on a prompt from [Sarah Allatt](https://allpoetry.com/Sarah_Allatt) for a poetry contest on [allpoetry.com](https://allpoetry.com/). I had never heard of Henrietta Lacks before the prompt. I still have much to learn about her, but I know that cancer research, researchers, and survivors owe Henrietta a great debt. Let’s not forget her name. Thank you [Henrietta Lacks](https://www.hopkinsmedicine.org/henriettalacks/).
+
+* * *
+
+HeLa I know — a poem (pronounce HeLa as **heh**·luh.)
+
+HeLa I know that my cancer would be immortal \
+Yet, here I am, a forgotten soul \
+My name known only to a few who use me \
+Know beyond name to only those that knew me \
+ \
+HeLa I know I would be, yet, another Black woman \
+Exploited for her body \
+Without consent and \
+lacking compensation \
+ \
+For the greater good they say \
+Without any pay \
+Not for me, but for those that loved me \
+That is the American way
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/a-poem-for-henrietta-lacks-1154e87cae2f) on 2023-10-07.*

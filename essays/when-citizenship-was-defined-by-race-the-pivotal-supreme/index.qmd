@@ -1,0 +1,61 @@
+---
+title: "When Citizenship Was Defined by Race: The Pivotal Supreme Court Cases of 1922/23"
+description: "I’ve been teaching sociology courses for a while now and one thing that surprises me (and maybe it shouldn’t) is the lack of knowledge many…"
+date: 2025-04-26
+categories: ["Race", "Supreme Court", "History"]
+image: image-1.jpg
+---
+
+![Photo by [Ian Hutchinson](https://unsplash.com/@ianhutchinson92?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](image-1.jpg){fig-alt="Photo by Ian Hutchinson on Unsplash"}
+
+I’ve been teaching sociology courses for a while now and one thing that surprises me (and maybe it shouldn’t) is the lack of knowledge many students have of this country’s racial history. Yes many of us know about slavery and the civil rights movement generally, but the issue of race goes much deeper than the cursory paragraphs of our high school history books.
+
+With that, I am beginning a series that covers some of the topics that we should all know about. Mainly the history of how race has been defined in this country and how ‘whiteness’ has been protected, in law, throughout our history.
+
+Given the current societal situation in our country, it is important for us to know that much of what is happening regarding race and ethnicity is not new but a continuation of this country’s unresolved issues with race.
+
+**When Citizenship Was Defined by Race: The Pivotal Supreme Court Cases of 1922**
+
+In our ongoing conversations about racial equity and immigration, we often overlook the foundational legal battles that shaped U.S. citizenship. 1922 marked a critical year in Supreme Court jurisprudence on race and naturalization that continues to echo in today’s legal landscape.
+
+**Takao Ozawa v. United States: Defining “Whiteness”**
+
+In October 1922, the Supreme Court unanimously rejected Takao Ozawa’s petition for citizenship. Despite living in the United States for 20 years, graduating from Berkeley, raising his U.S. born children as English speakers, and being Christian, Ozawa was deemed ineligible for naturalization.
+
+Why? Because he was not “white” as required by the Naturalization Act of 1906.
+
+Justice George Sutherland, writing for a unanimous Court, established that “the words ‘white person’ were meant to indicate only a person of what is popularly known as the Caucasian race.” With this, the court determined that Japanese people, regardless of their skin tone or cultural assimilation, could not be classified as “white persons” under the law. The Court established that “white” referred specifically to those of Caucasian descent — creating a scientific-sounding racial barrier to citizenship.
+
+The Court determined that Japanese people were “not Caucasian” within the meaning of the law and thus ineligible for citizenship.
+
+**United States v. Bhagat Singh Thind: Shifting Definitions**
+
+Just months later in 1923, the Court confronted an unexpected challenge to their Ozawa reasoning. Bhagat Singh Thind, an Indian Sikh who had served in the U.S. Army during World War I, argued that as a high-caste Hindu of Aryan descent, he was scientifically Caucasian and therefore eligible for citizenship.
+
+The Court, faced with their own logic from Ozawa, abruptly shifted their reasoning. Justice Sutherland, writing again for a unanimous Court, declared that “white person” should be interpreted according to “common understanding” rather than scientific classification. Thus, despite being technically “Caucasian,” Indians were deemed not “white” as commonly understood.
+
+It is interesting to note that Bhagat Singh Thind was initially granted citizenship by an Oregon district court in 1920, but the Bureau of Naturalization appealed this decision, which led to the Supreme Court case United States v. Bhagat Singh Thind in 1923.
+
+The district court’s decision to grant him citizenship was based on the argument that as a “high-caste Hindu of full Indian blood,” he could be classified as a “white person” under existing naturalization laws. However, when the case reached the Supreme Court, they unanimously overturned this decision, revoking his citizenship.
+
+Thind would later become a U.S. citizen in 1936, after changes in immigration laws allowed veterans of World War I to naturalize regardless of race.
+
+**The Legacy**
+
+These cases reveal how legal definitions of race were manipulated to maintain racial hierarchies and restrict citizenship. The Court established that:
+
+\1. “Whiteness” was a prerequisite for belonging \
+\2. The definition of “white” could shift as needed to exclude certain groups \
+\3. Scientific classifications would be employed or discarded based on the desired outcome
+
+Today, as we grapple with issues of immigration, citizenship, and racial justice, these century-old cases remind us that our legal history on race is neither neutral nor consistent. Legal arguments that appear objective often mask deeper biases.
+
+Understanding this history is essential for those of us working in education, law, policy, diversity and inclusion, or simply concerned citizens wanting to build a more equitable future.
+
+What historical legal cases do you think we should study more closely to understand today’s challenges?
+
+#LegalHistory #RacialJustice #Immigration #SupremeCourt #Citizenship #ProfessionalDevelopment
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/when-citizenship-was-defined-by-race-the-pivotal-supreme-court-cases-of-1922-23-2597c933ce25) on 2025-04-26.*

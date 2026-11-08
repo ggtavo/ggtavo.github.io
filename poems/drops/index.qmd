@@ -1,0 +1,25 @@
+---
+title: "Drops — a poem (micro)"
+description: "A life source"
+date: 2023-06-02
+categories: ["Nature Poem", "Water"]
+image: image-1.jpg
+---
+
+![Photo by author G.A. Botero [www.wackymutt.com](http://www.wackymutt.com)](image-1.jpg){fig-alt="Photo by author G.A. Botero www.wackymutt.com"}
+
+The joy of rain
+
+drives me insane
+
+after a drought
+
+I had my doubt
+
+but now I know
+
+I will live another season
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/drops-a-poem-micro-14e4a43ff05c) on 2023-06-02.*

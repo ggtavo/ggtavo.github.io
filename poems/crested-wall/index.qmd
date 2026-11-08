@@ -1,0 +1,21 @@
+---
+title: "Crested Wall"
+description: "A micro poem"
+date: 2023-12-17
+categories: ["Poetry On Medium", "Micropoetry", "Surfing"]
+image: image-1.jpg
+---
+
+![Photo by G.A. Botero](image-1.jpg){fig-alt="Photo by G.A. Botero"}
+
+Caught in the crested wall, I rode their dreams,
+
+their wins engulfed me
+
+Realizing that was my demise
+
+I sank.
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/crested-wall-f628cf294319) on 2023-12-17.*

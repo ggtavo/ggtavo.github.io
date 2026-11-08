@@ -1,0 +1,20 @@
+---
+title: "Writer’s Blues"
+description: "I wish to write like the great ones"
+date: 2024-04-06
+categories: ["Micropoem", "Rainbow Salad"]
+image: image-1.jpg
+---
+
+![Sunset by the sea — Photo by G.A. Botero](image-1.jpg){fig-alt="Sunset by the sea — Photo by G.A. Botero"}
+
+I long to be one of them \
+I bought the leather journal, the special pen \
+I am bohemian, I dress the part \
+I sit here hoping for a sunset spark \
+but my page is light \
+as the day gets dark
+
+---
+
+*Originally published on [Medium](https://medium.com/@zemog/writers-blues-bc20786903a2) on 2024-04-06.*
