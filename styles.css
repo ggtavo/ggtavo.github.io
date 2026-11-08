@@ -17,3 +17,9 @@ h2 {
   max-width: 36rem;
   margin-top: 1.5rem;
 }
+
+/* Piece pages: the teaser ("description") only shows in the section lists,
+   not at the top of the piece itself */
+#title-block-header .description {
+  display: none;
+}
